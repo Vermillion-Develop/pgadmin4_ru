@@ -1,3 +1,5 @@
+🇷🇺 *Для чтения этого руководства на русском языке перейдите в файл* `README_RU.md`.
+
 # pgAdmin 4
 
 pgAdmin 4 is a rewrite of the popular pgAdmin3 management tool for the
