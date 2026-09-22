@@ -481,14 +481,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-context-menu@npm:^4.1.2":
-  version: 4.1.2
-  resolution: "electron-context-menu@npm:4.1.2"
+"electron-context-menu@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "electron-context-menu@npm:5.0.0"
   dependencies:
     cli-truncate: "npm:^4.0.0"
     electron-dl: "npm:^4.0.0"
     electron-is-dev: "npm:^3.0.1"
-  checksum: 10c0/30fc6f1370dd24b1f089911f40895d13fbfc683f534e79a2c17ded832b76a6554180bfa2f165528c5ffea19dcbda6c4ff77ccd63c5ddef382cbaa83fd47f153f
+  checksum: 10c0/0a9a8915acc2da6c8f927590dd1b33673a25ec2026ce849b9688842031cfe9864ae93abb0aad30343320783c094f8829c4c2f8c3fc400d0c1ac6e9c1401972b0
   languageName: node
   linkType: hard
 
@@ -1214,7 +1214,7 @@ __metadata:
     "@eslint/js": "npm:^10.0.1"
     axios: "npm:^1.20.0"
     electron: "npm:^44.4.2"
-    electron-context-menu: "npm:^4.1.2"
+    electron-context-menu: "npm:^5.0.0"
     electron-store: "npm:^11.0.2"
     eslint: "npm:^10.10.0"
     eslint-plugin-unused-imports: "npm:^4.4.1"
